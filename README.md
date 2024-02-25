@@ -2,7 +2,7 @@
 
 ## requirements
 
-- java 11 (probably will run with java 8 too??)
+- java 11 or later (probably will run with java 8 too?? Though I've used java 11 to create this)
 - maven
 
 ## how to use it
